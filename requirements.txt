@@ -1,0 +1,8 @@
+#de onde instalar
+--index-url https://pypi.python.org/simple/
+
+#pacotes necessários
+
+pandas
+numpy
+matplotlib.pyplot
